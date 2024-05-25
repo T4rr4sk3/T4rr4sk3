@@ -6,7 +6,7 @@ My name is Daniel and I'm working currently in private projects for COPPETEC.
 - 🎴 BP + ENG (Brazilian Portuguese + English)
 - 💻 Developing and Learning React (and Next), Node and Java since 2021
 - 👻 Graduated in Computer Science (dec/2021)
-- 🐱‍🏍 Learning DevOps skills with tecnologies like Docker and Kubernets
+- 🐱‍🏍 Learning DevOps skills with tecnologies like Docker and Kubernetes
 - ☁ Learning Cloud Services like AWS and Google Cloud
 
 <!--
